@@ -12,7 +12,7 @@
 ### ![image](https://github.com/gogoringhye/Scss/assets/145514996/19c7bb29-1936-495c-aa1a-230707cb68f4)
 ### ![image](https://github.com/gogoringhye/Scss/assets/145514996/ba8e69a1-4542-4941-b9d2-270385995025)
 
-### 🏩 "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다.
-### ⛺ "savePath": "~/css", --> ~ 은 style.scss를 의미, /는 style.scss 있는 폴더를 의미, scss 파일과 같은 위치에 css 폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
+##### 🏩 "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다.
+##### ⛺ "savePath": "~/css", --> ~ 은 style.scss를 의미, /는 style.scss 있는 폴더를 의미, scss 파일과 같은 위치에 css 폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
 
 
