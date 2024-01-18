@@ -17,4 +17,5 @@
 ##### 🏩 "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다.
 ##### ⛺ "savePath": "~/css", --> ~ 은 style.scss를 의미, /는 style.scss 있는 폴더를 의미, scss 파일과 같은 위치에 css 폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다.
 
-
+##### "savePath": "~/..css",
+### ![image](https://github.com/gogoringhye/Scss/assets/145514996/fe196907-f012-41d4-af7c-9e8e35b707d2)
