@@ -19,3 +19,6 @@
 
 ##### 🎐 "savePath": "~/..css", --> style.scss 있는 폴더(부모)와 같은 위치에 css 폴더를 생성
 ### ![image](https://github.com/gogoringhye/Scss/assets/145514996/fe196907-f012-41d4-af7c-9e8e35b707d2)
+
+
+### ![image](https://github.com/gogoringhye/Scss/assets/145514996/b17e4568-5ec1-4381-af95-c47a9d5d4bd7)
